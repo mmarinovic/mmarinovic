@@ -1,4 +1,6 @@
-### Hi there 👋
+### Building web3 with Blank 
+💎🙌
+
 
 <!--
 **mmarinovic/mmarinovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
