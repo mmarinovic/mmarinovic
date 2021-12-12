@@ -1,5 +1,4 @@
-### Building web3 with Blank 
-💎🙌
+### Building web3 with Blank 💎🙌
 
 
 <!--
