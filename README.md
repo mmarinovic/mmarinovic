@@ -1,4 +1,4 @@
-### Building web3 with Blank 💎🙌
+### Founder & Managing Director @blankhq_co | CTO @endemic_nft
 
 
 <!--
