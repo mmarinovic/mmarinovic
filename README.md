@@ -1,5 +1,9 @@
 ## GM 👋
-I'm managing director of [BlankNFT](https://nft.blankhq.co/), full service nft development agency. We are building nfts and supporting systems like nft marketplaces and minting apps.
+I'm managing director of [Blank](https://nft.blankhq.co/), a European software engineering company focused on developing custom projects. 
+
+We have been delivering NFT collections, marketplaces, business apps, and other projects for clients across the globe.
+
+Our team of more than 20 frontend, backend, smart contract engineers and designers have experience with a wide variety of technologies. With 10+ years of professional experience, we provide expertise in all phases of the product development lifecycle. Having both tech experts and entrepreneurs on our team, we understand the technological and business challenges of building a digital product.
 
 My [twitter](https://twitter.com/0xMarko) DM's are open if you'd like to discuss nfts and your new projects. Feel free to join [our discord](https://discord.gg/fqFynkMxUV) to say hi and learn more about us.
 
