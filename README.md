@@ -1,5 +1,5 @@
 ## GM 👋
-I'm managing director of [Blank](https://nft.blankhq.co/), a software  company focused on building digital products.
+I'm CTO of [Blank](https://nft.blankhq.co/), a software  company focused on building digital products.
 
 We have been delivering NFT collections, marketplaces, business apps, and other projects for clients across the globe.
 
