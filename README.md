@@ -5,8 +5,4 @@ We have been delivering NFT collections, marketplaces, business apps, and other 
 
 Our team consists of Frontend, Backend and Smart Contract Engineers as well as UI/UX Designers. With 10+ years of professional experience, we provide expertise in all phases of the product development lifecycle. Having both tech experts and entrepreneurs on our team, we understand the technological and business challenges of building a digital product.
 
-My [twitter](https://twitter.com/0xMarko) DM's are open if you'd like to discuss nfts and your new projects. Feel free to join [our discord](https://discord.gg/fqFynkMxUV) to say hi and learn more about us.
-
-Here's how my team can help you 👇
-
-![image](https://user-images.githubusercontent.com/4189477/150789237-e29a00bd-327e-4bac-970d-245de8d2f670.png)
+My [twitter](https://twitter.com/0xMarko) DM's are open if you'd like to discuss nfts and your new projects.
