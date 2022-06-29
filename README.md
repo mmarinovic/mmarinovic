@@ -22,4 +22,4 @@ My [twitter](https://twitter.com/0xMarko) DM's are open if you'd like to discuss
 </div>
 
 ### 🎵 Music
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mamarino.marko&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mamarino.marko&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mamarino.marko&cover_image=true&theme=default&bar_color=5ba159&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
