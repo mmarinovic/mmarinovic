@@ -7,7 +7,7 @@ Our team consists of Frontend, Backend and Smart Contract Engineers as well as U
 
 My [twitter](https://twitter.com/0xMarko) DM's are open if you'd like to discuss nfts and your new projects.
 
-### Things I code with
+### 🛠️ Things I code with
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -21,5 +21,5 @@ My [twitter](https://twitter.com/0xMarko) DM's are open if you'd like to discuss
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 </div>
 
-### Party
+### 🎵 Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mamarino.marko&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mamarino.marko&redirect=true)
