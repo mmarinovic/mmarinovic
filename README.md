@@ -20,6 +20,3 @@ My [twitter](https://twitter.com/0xMarko) DM's are open if you'd like to discuss
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 </div>
-
-### 🎵 Music
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mamarino.marko&cover_image=true&theme=default&bar_color=5ba159&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
