@@ -1,21 +1,15 @@
-## 👋 GM 
-I'm CTO of [Blank](https://nft.blankhq.co/), a software  company focused on building digital products.
+## 👋 Welcome 
 
-We have been delivering NFT collections, marketplaces, business apps, and other projects for clients across the globe.
+I'm a CTO at [Blank](https://nft.blankhq.co/), a company that turns ideas into digital experiences.
 
-Our team consists of Frontend, Backend and Smart Contract Engineers as well as UI/UX Designers. With 10+ years of professional experience, we provide expertise in all phases of the product development lifecycle. Having both tech experts and entrepreneurs on our team, we understand the technological and business challenges of building a digital product.
+Blank is a collaborative team of developers, designers, and product specialists working across various industries.
 
-My [twitter](https://twitter.com/0xMarko) DM's are open if you'd like to discuss nfts and your new projects.
+My responsibility at Blank is to ensure that our deliveries are of the highest quality and that our engineers have opportunities to work on different projects and hone their skills.
 
-### 🛠️ Things I build with
+I'm hands-on with all of our projects, overseeing software architecture, reviewing pull requests, and guiding the projects in the right direction. My goal is to ensure clients feel secure.
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nest.js" alt="Nest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</div>
+My goal is to make clients feel safe.
+
+Let me know if you need help building software in either the Web2 or Web3 industries, and we can discuss it!
+
+My [X](https://twitter.com/0xMarko) DM's are open.
