@@ -1,4 +1,4 @@
-## 👋 Welcome 
+## Welcome friend
 
 I'm a CTO at [Blank](https://nft.blankhq.co/), a company that turns ideas into digital experiences.
 
