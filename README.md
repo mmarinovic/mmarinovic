@@ -1,13 +1,10 @@
-## Welcome friend
+### Hi there, I'm Marko
 
-I'm a CTO at [Blank](https://nft.blankhq.co/), a company that turns ideas into digital experiences.
+I'm a CTO at [Blank](https://blankhq.co/).
 
-Blank is a collaborative team of developers, designers, and product specialists working across various industries.
+Blank is a collaborative team of developers, designers, and product specialists in building web3 products.
 
-My responsibility at Blank is to ensure that our deliveries are of the highest quality and that our engineers have opportunities to work on different projects and hone their skills.
-
-I'm hands-on with all of our projects, overseeing software architecture, reviewing pull requests, and guiding the projects in the right direction. My goal is to ensure clients feel safe.
-
-Let me know if you need help building software in either the Web2 or Web3 industries, and we can discuss it!
+### Contact
+Direct message me 𝕏 for the best response times.
 
 My [X](https://twitter.com/0xMarko) DM's are open.
