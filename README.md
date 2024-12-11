@@ -1,8 +1,4 @@
-### Hi there, I'm Marko
+## Marko Marinovic
+Co-founder & CTO @ Blank
 
-I'm a CTO at [Blank](https://blankhq.co/).
-
-Blank is a collaborative team of developers, designers, and product specialists in building web3 products.
-
-### Contact
-Direct message me on [𝕏](https://twitter.com/0xMarko) for the best fastest response time.
+I collaborate with founders to explore and implement web3 technologies, guiding them in understanding and implementing blockchain solutions for their businesses.
