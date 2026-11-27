@@ -26,7 +26,7 @@ const INFO: Array<Row> = [
   { label: "building", value: [{ text: "AI-native fintech with swarms of agents" }] },
   { label: "stack", value: [{ text: "typescript · effect · react · next.js" }] },
   { value: [{ text: "c# · solidity · postgres · aws" }] },
-  { label: "uptime", value: [{ text: "2 marathons, best 3:18" }] },
+  { label: "uptime", value: [{ text: "multiple marathons" }] },
   { label: "crypto", value: [{ text: "still cool", cls: "ok" }] },
   { label: "web", value: [{ text: "markomarinovic.com", cls: "acc" }] }
 ]
